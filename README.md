@@ -1,4 +1,4 @@
-# 🌿 Plant Leaf Disease Detection Using AI Models
+#  Plant Leaf Disease Detection Using AI Models
 
 ## 📌 Overview
 This project uses Artificial Intelligence and Deep Learning techniques to detect plant leaf diseases from images. The system classifies plant leaves into healthy or diseased categories and provides a diagnosis based on image analysis.
@@ -7,7 +7,7 @@ The project was developed as part of a machine learning and image classification
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Detect plant diseases from leaf images.
 - Compare multiple classification models.
 - Evaluate model performance using standard metrics.
@@ -15,7 +15,7 @@ The project was developed as part of a machine learning and image classification
 
 ---
 
-## 📊 Dataset
+## Dataset
 The project uses the PlantVillage dataset, which contains:
 
 - 20,638 plant leaf images
@@ -29,7 +29,7 @@ Data preprocessing included:
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 ### 1. Decision Tree
 - F1-Score: 39.38%
@@ -47,7 +47,7 @@ The CNN achieved the best performance and was selected as the final model.
 
 ---
 
-## 🛠 Technologies & Libraries
+## Technologies & Libraries
 
 - Python
 - TensorFlow / Keras
@@ -60,7 +60,7 @@ The CNN achieved the best performance and was selected as the final model.
 
 ---
 
-## 🚀 Application Features
+##  Application Features
 
 - Upload a plant leaf image
 - AI-based disease prediction
